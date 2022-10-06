@@ -2,6 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=Welecome&fontAlign=50&color=random&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
 
+# Stack📚
+<br/>
+<br/>
+# 📲 Back-end Stack 📲
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<br/>
+<br/>
 # 💻 Front-end Stack 💻 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -12,7 +20,18 @@
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
 <br/>
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<br/>
+# 📫 DataBase Stack 📫
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<br/>
+<br/>
+# 💾 Etc Stack 💾
+<img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"/>
+<br/>
+<br/>
+# 📝 Tools 📝
+<img alt="npm" src="https://img.shields.io/badge/npm-007ACC.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"/>
 <br/>
 <br/>
