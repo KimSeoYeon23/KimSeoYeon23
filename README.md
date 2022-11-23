@@ -49,7 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
 <br/>
 <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kim7510})](https://solved.ac/{kim7510})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
 </div>
 
