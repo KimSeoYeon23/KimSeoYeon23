@@ -50,6 +50,6 @@
 <br/>
 <br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={KimSeoYeon23})](https://solved.ac/{KimSeoYeon23})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kim7510})](https://solved.ac/{kim7510})
 </div>
 
