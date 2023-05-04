@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=Welecome&fontAlign=50&color=random&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
@@ -51,3 +52,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYeon23&&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
 <br/>
 </div>
+
+## ✅ Latest Blog Post
+
