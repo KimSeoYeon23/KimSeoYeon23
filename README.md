@@ -51,7 +51,6 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYeon23&&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim7510)](https://solved.ac/kim7510/)  
 </div>
 
 ## ✅ Latest Blog Post
