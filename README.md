@@ -53,7 +53,5 @@
 <br/>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim7510)](https://solved.ac/kim7510/)  
-  
 ## ✅ Latest Blog Post
 
