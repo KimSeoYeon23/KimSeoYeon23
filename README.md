@@ -55,3 +55,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/06/05 - STARBUCKS](https://kimseoyeon23.github.io/blog/sideproject/2023-06-05-STARBUCKS/) <br/>
+[2023/06/05 - Apple - iPad](https://kimseoyeon23.github.io/blog/sideproject/2023-06-05-Apple/) <br/>
+[2023/06/05 - OMDb API 사이트](https://kimseoyeon23.github.io/blog/sideproject/2023-06-05-OMDb/) <br/>
+[2023/05/15 - 5M](https://kimseoyeon23.github.io/blog/project/2023-05-15-5M/) <br/>
+[2023/05/15 - NUSEUM](https://kimseoyeon23.github.io/blog/project/2023-05-15-NUSEUM/) <br/>
+[2023/05/10 - KISS Wallet](https://kimseoyeon23.github.io/blog/project/2023-05-10-KISS/) <br/>
