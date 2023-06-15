@@ -57,9 +57,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/06/14 - 작명법](https://kimseoyeon23.github.io/blog/dev/html/2023-06-14-naming/) <br/>
+[2023/06/14 - 오픈 그래프와 트위터 카드](https://kimseoyeon23.github.io/blog/dev/html/2023-06-14-opengraph/) <br/>
 [2023/06/14 - meta 태그](https://kimseoyeon23.github.io/blog/dev/html/2023-06-14-meta-tag/) <br/>
 [2023/06/14 - script 태그](https://kimseoyeon23.github.io/blog/dev/html/2023-06-14-script/) <br/>
 [2023/06/13 - Introduction](https://kimseoyeon23.github.io/blog/dev/html/2023-06-13-intro/) <br/>
 [2023/06/13 - dApp](https://kimseoyeon23.github.io/blog/sideproject/2023-06-13-dApp/) <br/>
-[2023/06/13 - Nwitter](https://kimseoyeon23.github.io/blog/sideproject/2023-06-13-Nwitter/) <br/>
-[2023/06/05 - STARBUCKS](https://kimseoyeon23.github.io/blog/sideproject/2023-06-05-STARBUCKS/) <br/>
