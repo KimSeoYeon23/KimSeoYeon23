@@ -57,9 +57,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/08/14 - CodeStates BEB 마지막 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-08-14-ThirdProject/) <br/>
 [2023/07/14 - CodeStates BEB 두 번째 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-07-14-SecondProject/) <br/>
 [2023/06/30 - CodeStates BEB 첫 번째 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-06-30-FirstProject/) <br/>
 [2023/06/15 - box-shadow 속성](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-box-shadow/) <br/>
 [2023/06/15 - filter 속성](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-filter/) <br/>
 [2023/06/15 - 가상 클래스](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-pseudo-class/) <br/>
-[2023/06/15 - root 클래스](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-root/) <br/>
