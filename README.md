@@ -49,7 +49,7 @@
 ![SeoYeons's GitHub stats](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api/top-langs/?username=KimSeoYeon23&layout=compact&theme=github_dark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
+[![Top Langs](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api/top-langs/?username=KimSeoYeon23&count_private=true&layout=compact&theme=github_dark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
 <br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
