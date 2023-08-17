@@ -57,9 +57,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/08/17 - 공개 범위에 따른 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-Scope-of-disclosure/) <br/>
+[2023/08/17 - 분산원장기술](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-dlt/) <br/>
+[2023/08/17 - 이더리움](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-ethereum/) <br/>
+[2023/08/17 - 비트코인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-bitcoin/) <br/>
+[2023/08/17 - 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-blockchain/) <br/>
 [2023/08/14 - CodeStates BEB 마지막 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-08-14-ThirdProject/) <br/>
-[2023/07/14 - CodeStates BEB 두 번째 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-07-14-SecondProject/) <br/>
-[2023/06/30 - CodeStates BEB 첫 번째 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-06-30-FirstProject/) <br/>
-[2023/06/15 - box-shadow 속성](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-box-shadow/) <br/>
-[2023/06/15 - filter 속성](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-filter/) <br/>
-[2023/06/15 - 가상 클래스](https://kimseoyeon23.github.io/blog/dev/css/2023-06-15-pseudo-class/) <br/>
