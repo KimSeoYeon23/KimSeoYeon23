@@ -71,7 +71,7 @@ markdown_text = """
 
 [blog]: https://kimseoyeon23.github.io/
 [linkedin]: https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-a20410265/
-[mail]: tjdus3431@daum.net
+[mail]: mailto:tjdus3431@daum.net
 [instagram]: https://www.instagram.com/s.yeon___n/   
 
 ---
