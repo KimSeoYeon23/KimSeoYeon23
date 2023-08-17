@@ -75,8 +75,9 @@ for idx, feed in enumerate(RSS_FEED['entries']):
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
-
 """
+
+---
 
 ### Connect with me:
 [<img align="left" alt="Blog" width="48px" src="https://img.icons8.com/color/48/blogger.png"/>][blog]
