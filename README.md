@@ -46,10 +46,10 @@
 <br/>
 <br/>
 
-![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
+![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=dark)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYeon23)](https://github.com/KimSeoYeon23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYeon23&&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
 <br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
