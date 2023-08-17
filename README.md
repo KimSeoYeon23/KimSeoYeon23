@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=dark)
+![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYeon23)](https://github.com/KimSeoYeon23)
