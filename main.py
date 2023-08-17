@@ -7,7 +7,7 @@ MAX_POST = 5
 markdown_text = """
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=Welecome&fontAlign=50&color=random&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welecome&fontAlign=50&color=timeGradient&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
 
 # Stack📚
 <br/>
