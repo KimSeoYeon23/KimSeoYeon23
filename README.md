@@ -55,6 +55,21 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
 </div>
 
+---
+
+## Connect with me:
+[<img align="left" alt="Blog" width="48px" src="https://img.icons8.com/color/48/blogger.png"/>][blog]
+[<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Mail" width="48px" src="https://img.icons8.com/fluency/48/apple-mail.png" />][mail]
+[<img align="left" alt="Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[blog]: https://kimseoyeon23.github.io/
+[linkedin]: https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-a20410265/
+[mail]: tjdus3431@daum.net
+[instagram]: https://www.instagram.com/s.yeon___n/
+
+---
+
 ## ✅ Latest Blog Post
 
 [2023/08/17 - 공개 범위에 따른 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-Scope-of-disclosure/) <br/>
