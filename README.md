@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/08/18 - 합의 알고리즘](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-consensus-algorithm/) <br/>
+[2023/08/18 - ACID](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-acid/) <br/>
+[2023/08/18 - 트랜잭션](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-transaction/) <br/>
 [2023/08/17 - 공개 범위에 따른 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-Scope-of-disclosure/) <br/>
 [2023/08/17 - 분산원장기술](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-dlt/) <br/>
 [2023/08/17 - 이더리움](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-ethereum/) <br/>
-[2023/08/17 - 비트코인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-bitcoin/) <br/>
-[2023/08/17 - 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-blockchain/) <br/>
-[2023/08/14 - CodeStates BEB 마지막 프로젝트 회고](https://kimseoyeon23.github.io/blog/dev/codestates/2023-08-14-ThirdProject/) <br/>
