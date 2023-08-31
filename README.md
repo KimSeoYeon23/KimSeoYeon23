@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/08/30 - 이더리움 클라이언트(Ethereum Client)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-ethereum-client/) <br/>
+[2023/08/30 - 비트코인 코어(Bitcoin Core)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-bitcoin-core/) <br/>
+[2023/08/30 - 지갑과 어카운트](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-wallet-account/) <br/>
 [2023/08/18 - 합의 알고리즘](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-consensus-algorithm/) <br/>
 [2023/08/18 - ACID](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-acid/) <br/>
 [2023/08/18 - 트랜잭션](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-18-transaction/) <br/>
-[2023/08/17 - 공개 범위에 따른 블록체인](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-Scope-of-disclosure/) <br/>
-[2023/08/17 - 분산원장기술](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-dlt/) <br/>
-[2023/08/17 - 이더리움](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-17-ethereum/) <br/>
