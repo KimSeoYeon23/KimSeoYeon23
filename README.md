@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/09/02 - 분산 데이터베이스와 분산 원장 (3)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-09-02-distributed-ledger-2/) <br/>
-[2023/09/02 - 분산 데이터베이스와 분산 원장 (2)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-09-02-distributed-ledger-3/) <br/>
-[2023/08/31 - 분산 데이터베이스와 분산 원장 (1)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-31-distributed-ledger/) <br/>
-[2023/08/30 - 이더리움 클라이언트(Ethereum Client)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-ethereum-client/) <br/>
-[2023/08/30 - 비트코인 코어(Bitcoin Core)](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-bitcoin-core/) <br/>
-[2023/08/30 - 지갑과 어카운트](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-08-30-wallet-account/) <br/>
+[2023/09/03 - 파이썬(Python)이란?](https://kimseoyeon23.github.io/blog/dev/python/2023-09-03-intro/) <br/>
+[2023/09/03 - Go란?](https://kimseoyeon23.github.io/blog/dev/go/2023-09-03-intro/) <br/>
+[2023/09/03 - Next.js란?](https://kimseoyeon23.github.io/blog/dev/next/2023-09-03-intro/) <br/>
+[2023/09/03 - 리액트란?](https://kimseoyeon23.github.io/blog/dev/react/2023-09-03-intro/) <br/>
+[2023/09/03 - Hoisting(호이스팅)](https://kimseoyeon23.github.io/blog/dev/javascript/2023-09-03-hoisting/) <br/>
+[2023/09/03 - 이벤트 버블링과 캡쳐링](https://kimseoyeon23.github.io/blog/dev/javascript/2023-09-03-bubbling-capturing/) <br/>
