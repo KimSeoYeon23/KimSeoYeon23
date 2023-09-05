@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/09/04 - 세그윗](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-09-04-segwit/) <br/>
+[2023/09/04 - Component](https://kimseoyeon23.github.io/blog/dev/react/2023-09-04-component/) <br/>
+[2023/09/04 - JSX](https://kimseoyeon23.github.io/blog/dev/react/2023-09-04-jsx/) <br/>
 [2023/09/03 - 파이썬(Python)이란?](https://kimseoyeon23.github.io/blog/dev/python/2023-09-03-intro/) <br/>
 [2023/09/03 - Go란?](https://kimseoyeon23.github.io/blog/dev/go/2023-09-03-intro/) <br/>
 [2023/09/03 - Next.js란?](https://kimseoyeon23.github.io/blog/dev/next/2023-09-03-intro/) <br/>
-[2023/09/03 - 리액트란?](https://kimseoyeon23.github.io/blog/dev/react/2023-09-03-intro/) <br/>
-[2023/09/03 - Hoisting(호이스팅)](https://kimseoyeon23.github.io/blog/dev/javascript/2023-09-03-hoisting/) <br/>
-[2023/09/03 - 이벤트 버블링과 캡쳐링](https://kimseoyeon23.github.io/blog/dev/javascript/2023-09-03-bubbling-capturing/) <br/>
