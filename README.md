@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/09/06 - useMemo](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-usememo/) <br/>
+[2023/09/06 - useCallback](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-shallow-equal/) <br/>
+[2023/09/06 - 얕은 비교와 깊은 비교](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-usecallback/) <br/>
+[2023/09/06 - 리액트 앱 성능 테스트](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-react-performance/) <br/>
 [2023/09/04 - 세그윗](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-09-04-segwit/) <br/>
 [2023/09/04 - Component](https://kimseoyeon23.github.io/blog/dev/react/2023-09-04-component/) <br/>
-[2023/09/04 - JSX](https://kimseoyeon23.github.io/blog/dev/react/2023-09-04-jsx/) <br/>
-[2023/09/03 - 파이썬(Python)이란?](https://kimseoyeon23.github.io/blog/dev/python/2023-09-03-intro/) <br/>
-[2023/09/03 - Go란?](https://kimseoyeon23.github.io/blog/dev/go/2023-09-03-intro/) <br/>
-[2023/09/03 - Next.js란?](https://kimseoyeon23.github.io/blog/dev/next/2023-09-03-intro/) <br/>
