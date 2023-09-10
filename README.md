@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/09/09 - 백준 알고리즘 1330번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-09-backjoon-1330/) <br/>
+[2023/09/09 - 백준 알고리즘 10171, 10172번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-09-backjoon-10171/) <br/>
 [2023/09/06 - useMemo](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-usememo/) <br/>
 [2023/09/06 - useCallback](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-shallow-equal/) <br/>
 [2023/09/06 - 얕은 비교와 깊은 비교](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-usecallback/) <br/>
 [2023/09/06 - 리액트 앱 성능 테스트](https://kimseoyeon23.github.io/blog/dev/react/2023-09-06-react-performance/) <br/>
-[2023/09/04 - 세그윗](https://kimseoyeon23.github.io/blog/dev/blockchain/2023-09-04-segwit/) <br/>
-[2023/09/04 - Component](https://kimseoyeon23.github.io/blog/dev/react/2023-09-04-component/) <br/>
