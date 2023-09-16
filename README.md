@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/09/14 - 시작하기](https://kimseoyeon23.github.io/blog/dev/vue/2023-09-14-project-setting/) <br/>
-[2023/09/14 - 백준 알고리즘 1546번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-14-baekjoon-1546/) <br/>
-[2023/09/14 - 백준 알고리즘 10811번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-14-baekjoon-10811/) <br/>
-[2023/09/14 - 백준 알고리즘 3052번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-14-baekjoon-3052/) <br/>
-[2023/09/14 - 백준 알고리즘 5597번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-14-baekjoon-5597/) <br/>
-[2023/09/14 - Vue.js란?](https://kimseoyeon23.github.io/blog/dev/vue/2023-09-14-intro/) <br/>
+[2023/09/15 - 백준 알고리즘 2675번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-2675/) <br/>
+[2023/09/15 - 백준 알고리즘 10809번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-10809/) <br/>
+[2023/09/15 - 백준 알고리즘 11720번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-11720/) <br/>
+[2023/09/15 - 백준 알고리즘 11654번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-11654/) <br/>
+[2023/09/15 - 백준 알고리즘 27866번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-27866/) <br/>
+[2023/09/15 - 백준 알고리즘 2743번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-15-baekjoon-2743/) <br/>
