@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/09/18 - 백준 알고리즘 1316번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-1316/) <br/>
-[2023/09/18 - 백준 알고리즘 2941번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-2941/) <br/>
-[2023/09/18 - 백준 알고리즘 2475번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-2475/) <br/>
-[2023/09/18 - 백준 알고리즘 7287번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-7287/) <br/>
-[2023/09/18 - 백준 알고리즘 2558번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-2558/) <br/>
-[2023/09/18 - 백준 알고리즘 10872번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-18-baekjoon-10872/) <br/>
+[2023/09/19 - 프로그래머스 두 수의 나눗셈](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-a-divison-of-two-numbers/) <br/>
+[2023/09/19 - 프로그래머스 몫 구하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-share/) <br/>
+[2023/09/19 - 프로그래머스 숫자 비교하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-compare/) <br/>
+[2023/09/19 - 프로그래머스 나머지 구하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-remainder/) <br/>
+[2023/09/19 - 프로그래머스 나이 출력](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-age/) <br/>
+[2023/09/19 - 프로그래머스 두 수의 곱](https://kimseoyeon23.github.io/blog/dev/python/2023-09-19-programmers-multiplication/) <br/>
