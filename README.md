@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/09/21 - 프로그래머스 공배수](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-programmers-common-multiple/) <br/>
-[2023/09/21 - 프로그래머스 문자열을 정수로 변환하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-programmers-string-to-integer/) <br/>
-[2023/09/21 - 프로그래머스 문자열 곱하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-programmers-string-multiplication/) <br/>
-[2023/09/21 - 프로그래머스 공백으로 구분하기 1](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-programmers-gap/) <br/>
-[2023/09/21 - 프로그래머스 flag에 따라 다른 값 반환하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-programmers-flag/) <br/>
-[2023/09/21 - 백준 알고리즘 15680번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-21-baekjoon-15680/) <br/>
+[2023/09/23 - 백준 알고리즘 14652번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-14652/) <br/>
+[2023/09/23 - 백준 알고리즘 8370번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-8370/) <br/>
+[2023/09/23 - 백준 알고리즘 16170번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-16170/) <br/>
+[2023/09/23 - 백준 알고리즘 13277번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-13277/) <br/>
+[2023/09/23 - 백준 알고리즘 15727번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-15727/) <br/>
+[2023/09/23 - 백준 알고리즘 15740번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-15740/) <br/>
