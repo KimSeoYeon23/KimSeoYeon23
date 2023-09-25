@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/09/24 - 백준 알고리즘 14581번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-24-baekjoon-14581/) <br/>
+[2023/09/24 - 백준 알고리즘 14928번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-24-baekjoon-14928/) <br/>
+[2023/09/24 - 백준 알고리즘 17256번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-24-baekjoon-17256/) <br/>
+[2023/09/24 - 백준 알고리즘 20492번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-24-baekjoon-20492/) <br/>
+[2023/09/24 - 백준 알고리즘 27433번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-24-baekjoon-27433/) <br/>
 [2023/09/23 - 백준 알고리즘 14652번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-14652/) <br/>
-[2023/09/23 - 백준 알고리즘 8370번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-8370/) <br/>
-[2023/09/23 - 백준 알고리즘 16170번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-16170/) <br/>
-[2023/09/23 - 백준 알고리즘 13277번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-13277/) <br/>
-[2023/09/23 - 백준 알고리즘 15727번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-15727/) <br/>
-[2023/09/23 - 백준 알고리즘 15740번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-23-baekjoon-15740/) <br/>
