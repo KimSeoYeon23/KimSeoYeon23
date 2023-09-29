@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/09/28 - 백준 알고리즘 27294번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-28-baekjoon-27294/) <br/>
+[2023/09/28 - 백준 알고리즘 3733번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-28-baekjoon-3733/) <br/>
+[2023/09/28 - 백준 알고리즘 24568번](https://kimseoyeon23.github.io/blog/dev/python/2023-09-28-baekjoon-24568/) <br/>
 [2023/09/27 - 프로그래머스 뒤에서 5등까지](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-programmers-from-the-back-to-the-5th-place/) <br/>
 [2023/09/27 - 프로그래머스 원소들의 곱과 합](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-programmers-the-product-and-sum-of-the-elements/) <br/>
 [2023/09/27 - 프로그래머스 조건에 맞게 수열 변환하기 3](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-programmers-conversion-of-the-sequence-to-your-criteria/) <br/>
-[2023/09/27 - [파이썬] 리스트 컴프리헨션(list comprehension)](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-list-comprehension/) <br/>
-[2023/09/27 - 프로그래머스 배열의 원소 삭제하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-programmers-delete-an-element-from-an-array/) <br/>
-[2023/09/27 - 프로그래머스 n의 배수](https://kimseoyeon23.github.io/blog/dev/python/2023-09-27-programmers-multiple-of-n/) <br/>
