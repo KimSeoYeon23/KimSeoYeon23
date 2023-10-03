@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/09/30 - 프로그래머스 카운트 업](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-count-up/) <br/>
-[2023/09/30 - 프로그래머스 이어 붙인 수](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-a-connected-number/) <br/>
-[2023/09/30 - 프로그래머스 길이에 따른 연산](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-computation-by-length/) <br/>
-[2023/09/30 - 프로그래머스 접두사인지 확인하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-verify-that-it-is-a-prefix/) <br/>
-[2023/09/30 - 프로그래머스 배열의 원소만큼 추가하기](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-adding-as-many-elements-as-an-array/) <br/>
-[2023/09/30 - 프로그래머스 문자열의 뒤의 n글자](https://kimseoyeon23.github.io/blog/dev/python/2023-09-30-programmers-the-last-n-letter-of-the-string/) <br/>
+[2023/10/02 - 백준 알고리즘 28235번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-28235/) <br/>
+[2023/10/02 - 백준 알고리즘 23235번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-23235/) <br/>
+[2023/10/02 - 백준 알고리즘 26082번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-26082/) <br/>
+[2023/10/02 - 백준 알고리즘 27889번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-27889/) <br/>
+[2023/10/02 - 백준 알고리즘 26711번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-26711/) <br/>
+[2023/10/02 - 백준 알고리즘 2393번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-02-beakjoon-2393/) <br/>
