@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
-[2023/10/24 - 백준 알고리즘 14935번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-14935/) <br/>
-[2023/10/24 - 백준 알고리즘 15700번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-15700/) <br/>
-[2023/10/24 - 백준 알고리즘 11283번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-11283/) <br/>
-[2023/10/24 - 백준 알고리즘 14470번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-14470/) <br/>
-[2023/10/24 - 백준 알고리즘 25238번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-25238/) <br/>
-[2023/10/24 - 백준 알고리즘 15726번](https://kimseoyeon23.github.io/blog/dev/python/2023-10-24-beakjoon-15726/) <br/>
+[2023/10/25 - 프로그래머스 삼총사](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-the-three-musketeers/) <br/>
+[2023/10/25 - 프로그래머스 크기가 작은 부분문자열](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-smal-substring/) <br/>
+[2023/10/25 - 프로그래머스 예산](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-budget/) <br/>
+[2023/10/25 - 프로그래머스 직사각형 별찍기](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-rectangular-star/) <br/>
+[2023/10/25 - 프로그래머스 x만큼 간격이 있는 n개의 숫자](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-n-numbers-spaced-by-x/) <br/>
+[2023/10/25 - 프로그래머스 문자열을 정수로 바꾸기](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-replace-a-string-with-an-integer/) <br/>
