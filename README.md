@@ -72,9 +72,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/10/26 - 프로그래머스 시저 암호](https://kimseoyeon23.github.io/blog/dev/python/2023-10-26-programmers-caesar-passwords/) <br/>
+[2023/10/26 - 프로그래머스 최소 직사각형](https://kimseoyeon23.github.io/blog/dev/python/2023-10-26-programmers-min-rectangle/) <br/>
 [2023/10/25 - 프로그래머스 삼총사](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-the-three-musketeers/) <br/>
 [2023/10/25 - 프로그래머스 크기가 작은 부분문자열](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-smal-substring/) <br/>
 [2023/10/25 - 프로그래머스 예산](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-budget/) <br/>
 [2023/10/25 - 프로그래머스 직사각형 별찍기](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-rectangular-star/) <br/>
-[2023/10/25 - 프로그래머스 x만큼 간격이 있는 n개의 숫자](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-n-numbers-spaced-by-x/) <br/>
-[2023/10/25 - 프로그래머스 문자열을 정수로 바꾸기](https://kimseoyeon23.github.io/blog/dev/python/2023-10-25-programmers-replace-a-string-with-an-integer/) <br/>
