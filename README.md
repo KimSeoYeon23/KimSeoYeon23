@@ -21,6 +21,7 @@
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 <br/>
 <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI-319795.svg?style=for-the-badge&logo=Chakra UI&logoColor=white"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
