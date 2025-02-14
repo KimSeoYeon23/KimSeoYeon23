@@ -58,6 +58,9 @@
 <br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
+<br/>
+<br/>
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/kim7510" width="600" height="300"/></a>
 </div>
 
 ---
