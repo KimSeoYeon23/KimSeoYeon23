@@ -52,7 +52,6 @@
 
 ![SeoYeon's GitHub stats](https://github-readme-stats-kimseoyeon23s-projects.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
 
-
 <br/>
 
 [![Top Langs](https://github-readme-stats-kimseoyeon23s-projects.vercel.app/api/top-langs/?username=KimSeoYeon23&layout=compact&theme=github_dark&exclude_repo=github-readme-stats)](https://github.com/KimSeoYeon23)
