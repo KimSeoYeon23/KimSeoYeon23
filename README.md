@@ -45,16 +45,6 @@
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 <br/>
 <br/>
-
-![SeoYeons's GitHub stats](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api/top-langs/?username=KimSeoYeon23&layout=compact&theme=github_dark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
-<br/>
-<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
-</div>
-
 ---
 
 ## Connect with me:
