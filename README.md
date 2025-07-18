@@ -19,9 +19,9 @@
 <br/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
-<img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI-319795.svg?style=for-the-badge&logo=Chakra UI&logoColor=white"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img alt="chakraui" src="https://img.shields.io/badge/chakraui-1BB2A9.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+<img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <br/>
 <br/>
 <h3>📫 DataBase Stack 📫 <h3/>
@@ -31,6 +31,7 @@
 <h3> 💾 Etc Stack 💾 <h3/>
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"/>
+<img alt="vite" src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <br/>
 <br/>
 <h3> 📝 Tools 📝 <h3/>
@@ -46,15 +47,6 @@
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 <br/>
 <br/>
-
-![SeoYeons's GitHub stats](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api?username=KimSeoYeon23&show_icons=true&theme=github_dark)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats-git-master-kimseoyeon23.vercel.app/api/top-langs/?username=KimSeoYeon23&layout=compact&theme=github_dark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/KimSeoYeon23)
-<br/>
-<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
-</div>
 
 ---
 
