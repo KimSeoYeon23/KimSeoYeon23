@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/07/21 - LeetCode Plus One](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-21-leet-code-plus-one/) <br/>
+[2025/07/21 - 튜플(Tuple) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-21-tuple/) <br/>
+[2025/07/21 - Valid Parentheses](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-21-leetcode-valid-parentheses/) <br/>
 [2025/07/18 - 파이썬(Python)의 특징](https://kimseoyeon23.github.io/blog/dev/python/2025-07-18-feature/) <br/>
-[2025/07/18 - Two Sum](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-18-neetcode-two-sum/) <br/>
+[2025/07/18 - Two Sum](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-18-leetcode-two-sum/) <br/>
 [2023/10/26 - 프로그래머스 시저 암호](https://kimseoyeon23.github.io/blog/dev/codingtest/2023-10-26-programmers-caesar-passwords/) <br/>
-[2023/10/26 - 프로그래머스 최소 직사각형](https://kimseoyeon23.github.io/blog/dev/codingtest/2023-10-26-programmers-min-rectangle/) <br/>
-[2023/10/25 - 프로그래머스 삼총사](https://kimseoyeon23.github.io/blog/dev/codingtest/2023-10-25-programmers-the-three-musketeers/) <br/>
-[2023/10/25 - 프로그래머스 크기가 작은 부분문자열](https://kimseoyeon23.github.io/blog/dev/codingtest/2023-10-25-programmers-smal-substring/) <br/>
