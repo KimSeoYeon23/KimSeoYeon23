@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/07/22 - Palindrome Number](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-22-leetcode-palindrome-number/) <br/>
 [2025/07/21 - LeetCode Plus One](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-21-leet-code-plus-one/) <br/>
 [2025/07/21 - 튜플(Tuple) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-21-tuple/) <br/>
 [2025/07/21 - Valid Parentheses](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-21-leetcode-valid-parentheses/) <br/>
 [2025/07/18 - 파이썬(Python)의 특징](https://kimseoyeon23.github.io/blog/dev/python/2025-07-18-feature/) <br/>
 [2025/07/18 - Two Sum](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-18-leetcode-two-sum/) <br/>
-[2023/10/26 - 프로그래머스 시저 암호](https://kimseoyeon23.github.io/blog/dev/codingtest/2023-10-26-programmers-caesar-passwords/) <br/>
