@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/07/25 - 조건문](https://kimseoyeon23.github.io/blog/dev/python/2025-07-25-conditions/) <br/>
 [2025/07/24 - Remove Duplicates from sorted Array](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-24-leetcode-remove-duplicates-from-sorted-array/) <br/>
 [2025/07/24 - 집합(Set) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-24-set/) <br/>
 [2025/07/24 - Longest Common Prefix](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-24-leetcode-longest-common-prefix/) <br/>
 [2025/07/22 - Palindrome Number](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-22-leetcode-palindrome-number/) <br/>
 [2025/07/21 - LeetCode Plus One](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-21-leetcode-plus-one/) <br/>
-[2025/07/21 - 튜플(Tuple) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-21-tuple/) <br/>
