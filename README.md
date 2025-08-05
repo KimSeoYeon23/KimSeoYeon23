@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/04 - 패키지(packages)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-04-package/) <br/>
 [2025/08/01 - 모듈(module)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-01-module/) <br/>
 [2025/07/31 - 변수가 있는지 확인하기(hasattr - getattr - setattr )](https://kimseoyeon23.github.io/blog/dev/python/2025-07-31-getattr/) <br/>
 [2025/07/29 - 불(bool) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-29-boolean/) <br/>
 [2025/07/28 - 숫자형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-28-number/) <br/>
 [2025/07/25 - 조건문](https://kimseoyeon23.github.io/blog/dev/python/2025-07-25-conditions/) <br/>
-[2025/07/24 - Remove Duplicates from sorted Array](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-07-24-leetcode-remove-duplicates-from-sorted-array/) <br/>
