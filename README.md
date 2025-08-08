@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/07 - Search Insert Position](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-07-leetcode-search-insert-position/) <br/>
+[2025/08/07 - Length of Last Word](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-07-leetcode-length-of-last-word/) <br/>
+[2025/08/07 - 함수(function)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-07-function/) <br/>
 [2025/08/06 - 문자열 자료형(String)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-06-string/) <br/>
 [2025/08/05 - 리스트 자료형(list)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-05-list/) <br/>
 [2025/08/04 - 패키지(packages)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-04-package/) <br/>
-[2025/08/01 - 모듈(module)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-01-module/) <br/>
-[2025/07/31 - 변수가 있는지 확인하기(hasattr - getattr - setattr )](https://kimseoyeon23.github.io/blog/dev/python/2025-07-31-getattr/) <br/>
-[2025/07/29 - 불(bool) 자료형](https://kimseoyeon23.github.io/blog/dev/python/2025-07-29-boolean/) <br/>
