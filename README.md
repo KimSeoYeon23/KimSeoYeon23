@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/07 - Search Insert Position](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-07-leetcode-search-insert-position/) <br/>
-[2025/08/07 - Length of Last Word](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-07-leetcode-length-of-last-word/) <br/>
-[2025/08/07 - 함수(function)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-07-function/) <br/>
-[2025/08/06 - 문자열 자료형(String)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-06-string/) <br/>
-[2025/08/05 - 리스트 자료형(list)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-05-list/) <br/>
-[2025/08/04 - 패키지(packages)](https://kimseoyeon23.github.io/blog/dev/python/2025-08-04-package/) <br/>
+[2025/08/08 - 배열 만들기4](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-make-array4/) <br/>
+[2025/08/08 - 부분 문자열 이어 붙여 문자열 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-create-a-string-by-concatenating-substrings/) <br/>
+[2025/08/08 - 배열 만들기5](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-make-array/) <br/>
+[2025/08/08 - for문](https://kimseoyeon23.github.io/blog/dev/python/2025-08-08-for/) <br/>
+[2025/08/08 - Sqrt(x)](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-leetcode-sqrt/) <br/>
+[2025/08/08 - Find the Index of the First Occurrence in a String](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-leetcode-find-the-index-of-the-first-occurrence-in-a-string/) <br/>
