@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/13 - 접미사인지 확인하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-check-if-it-is-a-suffix/) <br/>
+[2025/08/13 - 접미사 배열](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-suffix-arrangement/) <br/>
+[2025/08/13 - 문자열 뒤집기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-reversing-a-string/) <br/>
+[2025/08/13 - 콜라츠 수열 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-creating-a-collatz-sequence/) <br/>
+[2025/08/13 - while 문](https://kimseoyeon23.github.io/blog/dev/python/2025-08-13-while/) <br/>
 [2025/08/12 - 변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-12-variable/) <br/>
-[2025/08/11 - 예외처리](https://kimseoyeon23.github.io/blog/dev/python/2025-08-11-try-except/) <br/>
-[2025/08/08 - 배열 만들기4](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-make-array4/) <br/>
-[2025/08/08 - 부분 문자열 이어 붙여 문자열 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-create-a-string-by-concatenating-substrings/) <br/>
-[2025/08/08 - 배열 만들기5](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-08-programmers-make-array/) <br/>
-[2025/08/08 - for문](https://kimseoyeon23.github.io/blog/dev/python/2025-08-08-for/) <br/>
