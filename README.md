@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/14 - 파일 읽고 쓰기](https://kimseoyeon23.github.io/blog/dev/python/2025-08-14-file-read-and-write/) <br/>
-[2025/08/13 - 접미사인지 확인하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-check-if-it-is-a-suffix/) <br/>
-[2025/08/13 - 접미사 배열](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-suffix-arrangement/) <br/>
-[2025/08/13 - 문자열 뒤집기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-reversing-a-string/) <br/>
-[2025/08/13 - 콜라츠 수열 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-13-programmers-creating-a-collatz-sequence/) <br/>
-[2025/08/13 - while 문](https://kimseoyeon23.github.io/blog/dev/python/2025-08-13-while/) <br/>
+[2025/08/18 - 가까운 1 찾기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-find-the-nearest-1/) <br/>
+[2025/08/18 - 문자 개수 세기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-counting-the-number-of-characters/) <br/>
+[2025/08/18 - 글자 지우기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-remove-text/) <br/>
+[2025/08/18 - qr code](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-qr-code/) <br/>
+[2025/08/18 - 세로 읽기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-vertical-reading/) <br/>
+[2025/08/18 - uv](https://kimseoyeon23.github.io/blog/dev/python/2025-08-18-uv/) <br/>
