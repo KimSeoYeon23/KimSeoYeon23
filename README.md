@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/18 - 가까운 1 찾기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-find-the-nearest-1/) <br/>
-[2025/08/18 - 문자 개수 세기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-counting-the-number-of-characters/) <br/>
-[2025/08/18 - 글자 지우기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-remove-text/) <br/>
-[2025/08/18 - qr code](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-qr-code/) <br/>
-[2025/08/18 - 세로 읽기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-18-programmers-vertical-reading/) <br/>
-[2025/08/18 - uv](https://kimseoyeon23.github.io/blog/dev/python/2025-08-18-uv/) <br/>
+[2025/08/19 - 배열 조각하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-array-slicing/) <br/>
+[2025/08/19 - 리스트 자르기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-area-of-2/) <br/>
+[2025/08/19 - 카운트다운](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-countdown/) <br/>
+[2025/08/19 - 배열 만들기3](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-make-array3/) <br/>
+[2025/08/19 - 리스트 자르기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-slice-list/) <br/>
+[2025/08/19 - FastAPI 설치](https://kimseoyeon23.github.io/blog/dev/python/2025-08-19-fastapi-install/) <br/>
