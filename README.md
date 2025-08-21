@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/20 - FastAPI 첫 걸음](https://kimseoyeon23.github.io/blog/dev/python/2025-08-20-fastapi-first-step/) <br/>
 [2025/08/19 - 배열 조각하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-array-slicing/) <br/>
 [2025/08/19 - 리스트 자르기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-area-of-2/) <br/>
 [2025/08/19 - 카운트다운](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-countdown/) <br/>
 [2025/08/19 - 배열 만들기3](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-make-array3/) <br/>
 [2025/08/19 - 리스트 자르기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-slice-list/) <br/>
-[2025/08/19 - FastAPI 설치](https://kimseoyeon23.github.io/blog/dev/python/2025-08-19-fastapi-install/) <br/>
