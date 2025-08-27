@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/27 - FastAPI 경로 매개변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-27-fastapi-parameter/) <br/>
 [2025/08/26 - n보다 커질 때까지 더하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-26-programmers-add-until-it-becomes-greater-than-n/) <br/>
 [2025/08/25 - 왼쪽 오른쪽](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-25-programmers-left-right/) <br/>
 [2025/08/25 - FastAPI 기능](https://kimseoyeon23.github.io/blog/dev/python/2025-08-25-fastapi-feature/) <br/>
 [2025/08/20 - FastAPI 첫 걸음](https://kimseoyeon23.github.io/blog/dev/python/2025-08-20-fastapi-first-step/) <br/>
 [2025/08/19 - 배열 조각하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-array-slicing/) <br/>
-[2025/08/19 - 리스트 자르기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-area-of-2/) <br/>
