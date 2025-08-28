@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/27 - FastAPI 경로 매개변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-27-fastapi-parameter/) <br/>
-[2025/08/26 - n보다 커질 때까지 더하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-26-programmers-add-until-it-becomes-greater-than-n/) <br/>
-[2025/08/25 - 왼쪽 오른쪽](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-25-programmers-left-right/) <br/>
-[2025/08/25 - FastAPI 기능](https://kimseoyeon23.github.io/blog/dev/python/2025-08-25-fastapi-feature/) <br/>
-[2025/08/20 - FastAPI 첫 걸음](https://kimseoyeon23.github.io/blog/dev/python/2025-08-20-fastapi-first-step/) <br/>
-[2025/08/19 - 배열 조각하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-19-programmers-array-slicing/) <br/>
+[2025/08/28 - FastAPI 쿼리 매개변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-28-fastapi-query-parameter/) <br/>
+[2025/08/27 - l로 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-making-l/) <br/>
+[2025/08/27 - 이차원 배열 대각선 순회하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-traversing-a-two-dimensional-array-diagonally/) <br/>
+[2025/08/27 - 문자열 잘라서 정렬하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-string-cutting-and-sorting/) <br/>
+[2025/08/27 - 순서 바꾸기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-replacing-the-order/) <br/>
+[2025/08/27 - 5명씩](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-5-people-each/) <br/>
