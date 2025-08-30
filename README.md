@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/29 - 문자열 바꿔서 찾기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-29-programmers-find-by-changing-string/) <br/>
+[2025/08/29 - FastAPI 타입](https://kimseoyeon23.github.io/blog/dev/python/2025-08-29-fastapi-type/) <br/>
 [2025/08/28 - FastAPI 쿼리 매개변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-28-fastapi-query-parameter/) <br/>
 [2025/08/27 - l로 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-making-l/) <br/>
 [2025/08/27 - 이차원 배열 대각선 순회하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-traversing-a-two-dimensional-array-diagonally/) <br/>
 [2025/08/27 - 문자열 잘라서 정렬하기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-string-cutting-and-sorting/) <br/>
-[2025/08/27 - 순서 바꾸기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-replacing-the-order/) <br/>
-[2025/08/27 - 5명씩](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-5-people-each/) <br/>
