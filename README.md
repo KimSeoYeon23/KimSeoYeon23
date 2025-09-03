@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/03 - FastAPI 파일 요청](https://kimseoyeon23.github.io/blog/dev/python/2025-09-03-fast-api-file/) <br/>
 [2025/09/02 - FastAPI 폼 데이터](https://kimseoyeon23.github.io/blog/dev/python/2025-09-02-fast-api-form-data/) <br/>
 [2025/09/01 - FastAPI 응답 상태 코드](https://kimseoyeon23.github.io/blog/dev/python/2025-09-01-fast-api-status-code/) <br/>
 [2025/08/29 - 문자열 바꿔서 찾기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-29-programmers-find-by-changing-string/) <br/>
 [2025/08/29 - FastAPI 타입](https://kimseoyeon23.github.io/blog/dev/python/2025-08-29-fastapi-type/) <br/>
 [2025/08/28 - FastAPI 쿼리 매개변수](https://kimseoyeon23.github.io/blog/dev/python/2025-08-28-fastapi-query-parameter/) <br/>
-[2025/08/27 - l로 만들기](https://kimseoyeon23.github.io/blog/dev/codingtest/2025-08-27-programmers-making-l/) <br/>
