@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/12 - SQLAlchemy ORM](https://kimseoyeon23.github.io/blog/dev/python/2025-09-12-sqlalcehmy-orm/) <br/>
 [2025/09/11 - 싱글톤(Singleton)](https://kimseoyeon23.github.io/blog/dev/python/2025-09-11-singleton/) <br/>
 [2025/09/10 - logging](https://kimseoyeon23.github.io/blog/dev/python/2025-09-10-logging/) <br/>
 [2025/09/09 - gettext](https://kimseoyeon23.github.io/blog/dev/python/2025-09-09-gettext/) <br/>
 [2025/09/08 - Socket](https://kimseoyeon23.github.io/blog/dev/python/2025-09-08-socket/) <br/>
 [2025/09/05 - SQLAlchemy](https://kimseoyeon23.github.io/blog/dev/python/2025-09-05-sqlalchemy/) <br/>
-[2025/09/04 - FastAPI Handling Errors](https://kimseoyeon23.github.io/blog/dev/python/2025-09-04-fast-api-handling-errors/) <br/>
