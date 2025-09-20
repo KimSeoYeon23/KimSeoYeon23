@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/19 - SSL](https://kimseoyeon23.github.io/blog/dev/python/2025-09-19-ssl/) <br/>
 [2025/09/18 - range, enumerate](https://kimseoyeon23.github.io/blog/dev/python/2025-09-18-range-enumerate/) <br/>
 [2025/09/17 - os.path](https://kimseoyeon23.github.io/blog/dev/python/2025-09-17-os-path/) <br/>
 [2025/09/16 - Nginx](https://kimseoyeon23.github.io/blog/dev/python/2025-09-16-nginx/) <br/>
 [2025/09/15 - Gunicorn](https://kimseoyeon23.github.io/blog/dev/python/2025-09-15-gunicorn/) <br/>
 [2025/09/12 - SQLAlchemy ORM](https://kimseoyeon23.github.io/blog/dev/python/2025-09-12-sqlalcehmy-orm/) <br/>
-[2025/09/11 - 싱글톤(Singleton)](https://kimseoyeon23.github.io/blog/dev/python/2025-09-11-singleton/) <br/>
