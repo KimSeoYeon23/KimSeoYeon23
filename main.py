@@ -1,6 +1,5 @@
 import feedparser, time
 
-
 URL = "https://kimseoyeon23.github.io/feed"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
