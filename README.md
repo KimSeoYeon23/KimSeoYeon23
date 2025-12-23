@@ -64,8 +64,8 @@
 
 ## ✅ Latest Blog Post
 
-[2025/12/23 - [DevLog] AI 메일 자동응답 시스템에서 이미지 처리하기 (CID vs Base64)](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-mail-system/) <br/>
-[2025/12/23 - [DevLog] PDF 기반 서비스에서 Markdown ↔ HTML 양방향 변환기 구현하기](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-parser/) <br/>
+[2025/12/23 - [DevLog] 메일 서비스 개발기: CID와 Base64 사이에서 이미지 처리하기](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-mail-system/) <br/>
+[2025/12/23 - [DevLog] Unified를 활용한 Markdown ↔ HTML 양방향 변환기 구현하기](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-parser/) <br/>
 [2025/12/23 - Sequelize](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-sequelize/) <br/>
 [2025/12/23 - Express](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-express/) <br/>
 [2025/12/23 - fnm이란?](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-fnm/) <br/>
