@@ -64,9 +64,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/26 - OAuth2PasswordBearer](https://kimseoyeon23.github.io/blog/dev/python/2025-09-26-fastapi-oauth2passwordbearer/) <br/>
-[2025/09/25 - Dataclasses](https://kimseoyeon23.github.io/blog/dev/python/2025-09-25-fastapi-dataclasses/) <br/>
-[2025/09/24 - Response](https://kimseoyeon23.github.io/blog/dev/python/2025-09-24-fastapi-response/) <br/>
-[2025/09/23 - ORJSONResponse](https://kimseoyeon23.github.io/blog/dev/python/2025-09-23-fastapi-orjson/) <br/>
-[2025/09/19 - SSL](https://kimseoyeon23.github.io/blog/dev/python/2025-09-19-ssl/) <br/>
-[2025/09/18 - range, enumerate](https://kimseoyeon23.github.io/blog/dev/python/2025-09-18-range-enumerate/) <br/>
+[2025/12/23 - [DevLog] AI 메일 자동응답 시스템에서 이미지 처리하기 (CID vs Base64)](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-mail-system/) <br/>
+[2025/12/23 - [DevLog] PDF 기반 서비스에서 Markdown ↔ HTML 양방향 변환기 구현하기](https://kimseoyeon23.github.io/blog/frontend/2025-12-23-parser/) <br/>
+[2025/12/23 - Sequelize](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-sequelize/) <br/>
+[2025/12/23 - Express](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-express/) <br/>
+[2025/12/23 - fnm이란?](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-fnm/) <br/>
+[2025/12/23 - Intro](https://kimseoyeon23.github.io/blog/dev/node/2025-12-23-intro/) <br/>
